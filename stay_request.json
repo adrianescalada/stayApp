@@ -1,0 +1,24 @@
+{
+    "hotel_id": "36001",
+    "hotel_name": "Hotel con ID Externo 36001",
+    "guest": {
+        "name": "Hugo",
+        "lastname": "Mej\u00eda",
+        "birthdate": "1995-11-28",
+        "passport": "IM-1950721-MT",
+        "country": "IM"
+    },
+    "booking": {
+        "locator": "6200FCD118BFE",
+        "room": "299",
+        "check_in": "2022-02-07",
+        "check_out": "2022-02-17",
+        "pax": {
+            "adults": 1,
+            "kids": 0,
+            "babies": 0
+        }
+    },
+    "created": "2022-02-07 11:04:49",
+    "signature": "9fa60cb9069a96d3c416092331c3aaaa6dccb1d2159a45004e81246a4c667648"
+}
