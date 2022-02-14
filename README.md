@@ -14,7 +14,7 @@ composer dumpautoload -o
 
 # console
 
-Devuelve la totalidad de reservas activas
+Devuelve la totalidad de reservas activas (ts=0)
 
 -   php artisan send:stay
 
@@ -29,3 +29,5 @@ La opción --tsDay --tsHour Devuelve las reservas del dia y hora indicados
 La opción --truncate vacía los datos de booking guardados
 
 -   php artisan send:stay --truncate --tsDay=10/02/2022 --tsHour=10:00
+
+Nota: Se pueden combinar las distintas opciones antes descriptas
